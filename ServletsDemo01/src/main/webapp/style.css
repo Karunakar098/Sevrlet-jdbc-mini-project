@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body{
+	background:orange;
+	text-align:center;
+}
+table{
+	font-family:arial;
+	color:white;
+	border-collapse:collapse;
+	width:100%;
+	background:green;
+}
+td, th{
+	border:2px solid #fffff;
+	text-align:center;
+	padding:15px;
+}
